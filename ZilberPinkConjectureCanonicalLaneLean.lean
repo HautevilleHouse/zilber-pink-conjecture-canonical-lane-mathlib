@@ -1,0 +1,7 @@
+-- This module is the root of the ZilberPinkConjectureCanonicalLaneLean Lean proof package.
+import ZilberPinkConjectureCanonicalLaneLean.Basic
+import ZilberPinkConjectureCanonicalLaneLean.SourcePackage
+import ZilberPinkConjectureCanonicalLaneLean.SourceDependencies
+import ZilberPinkConjectureCanonicalLaneLean.Formalization
+import ZilberPinkConjectureCanonicalLaneLean.ReviewerBridge
+import ZilberPinkConjectureCanonicalLaneLean.TheoremStatement
